@@ -1,0 +1,1 @@
+./nbminer -a ethash -o stratum+ssl://ethash.unmineable.com:4444 -u LTC:ltc1q5arlvmr8amqy3q4cf2tk537k5e3uee926dy0vc.unmineable_worker_xgokcew -log 
